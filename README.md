@@ -6,3 +6,4 @@ TotalPoll uses cookies to keep track of users that already voted.  However,
 the plugin does offer the ability to block users by IP address after they
 have voted once already.  I take no responsibility for nefarious usage of
 this bot as it only created for educational purposes.
+and ths boat created for good thinks.
